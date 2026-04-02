@@ -10,7 +10,7 @@ def main():
                 # the "owner_reponame" format that the indexer stores in OpenSearch.
                 # Without this, the random-snippet filter sends the old DB value (e.g. "pub_repo_3")
                 # but OpenSearch has the normalized value (e.g. "admin_testrepo") → no match.
-       print("hello 02 april 2026")
+       print("hello 02 april 2026 4 pm ")
 
 
 if __name__ == "__main__":
